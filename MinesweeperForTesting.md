@@ -5,6 +5,7 @@ The purpose of this exercise is to understand how to build the core of a system 
 ### Requirements
 
 - A new game should start by specifying the size of the board (all boards are squares)
+    - e.g. if board size is 4, the board is a 4x4 grid
 - Mines should be placed at coordinates initially
 - The board should have two modes of display
     1. Only squares selected by the player are shown
