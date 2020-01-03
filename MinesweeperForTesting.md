@@ -14,9 +14,9 @@ The purpose of this exercise is to understand how to build the core of a system 
   - When the player loses, the whole board is revealed
 - If the chosen square is not a mine, that square is revealed with the number of mines that surround it (hints)
 - If all of the squares besdies the mines are revealed, the player wins
-- A new game should be able to be started with the option of mines being placed randomly
+- A new game should be able to be started mines being placed randomly
 - A game should be able to take user input of a square to hit
-- A game should be able to produce an output (the board)
+- A game should be able to produce an output after taking the users input (the board)
 
 ### Game Flow Example
 
