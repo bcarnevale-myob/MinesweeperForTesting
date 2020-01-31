@@ -2,6 +2,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 import java.util.Arrays;
+import java.util.List;
 
 public class AcceptanceTests {
 
@@ -45,18 +46,8 @@ public class AcceptanceTests {
   "Victory"
    */
 
-
+    @Test
     public void twoByTwoVictory() {
-        //ask player what difficulty they want
-        //player selects two
-        //make minesweeper game with 2x2 board
-        //display hidden board
-        //player makes move (1,2)
-        //display board with move revealed
-        //player makes move (2,1)
-        //display board with move revealed
-        //display revealed board
-        //victory message "You win!"
 
         int difficulty = 2;
 
